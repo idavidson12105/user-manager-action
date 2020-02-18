@@ -1,0 +1,44 @@
+{
+    "type": "Input.ChoiceSet",
+    "choices": [
+        {
+            "title": "Production",
+            "value": "Production"
+        },
+        {
+            "title": "India Working Hours",
+            "value": "India Working Hours"
+        },
+        {
+            "title": "Israel Working Hours",
+            "value": "Israel Working Hours"
+        },
+        {
+            "title": "US Central Working Hours",
+            "value": "US Central Working Hours"
+        },
+        {
+            "title": "US Eastern Working Hours",
+            "value": "US Eastern Working Hours"
+        },
+        {
+            "title": "US Pacific Working Hours",
+            "value": "US Pacific Working Hours"
+        },
+        {
+            "title": "US Alaska Working Hours",
+            "value": "US Alaska Working Hours"
+        },
+        {
+            "title": "India & Israel Working Hours",
+            "value": "India & Israel Working Hours"
+        },
+        {
+            "title": "Israel & US Working Hours",
+            "value": "Israel & US Working Hours"
+        }
+    ],
+    "spacing": "Small",
+    "placeholder": "Select Schedule",
+    "id": "{id}"
+}

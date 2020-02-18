@@ -1,1 +1,1 @@
-# user-manager-action
+# aws-instance-control-action
